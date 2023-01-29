@@ -1,3 +1,3 @@
-﻿# MihirB-Byte
+﻿# Mihir Bachkaniwala
 
-Learning about data science
+Learning about data analysis and engineering. Happy to collaborate on projects.
