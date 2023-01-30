@@ -1,7 +1,1 @@
-﻿# MihirB-Byte
-
-<<<<<<< HEAD
-Learning about data science
-=======
-Learning about data analysis and engineering
->>>>>>> parent of b399078 (Update README.md)
+﻿Data enthusiast with a passion for uncovering insights and solving complex problems. On path to learn more about data analysis, visualization, and machine learning techniques. Always seeking to expand my skills and knowledge in the field of data science. Excited to contribute to open source projects and collaborate with others in the community.
